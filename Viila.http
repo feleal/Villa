@@ -1,0 +1,6 @@
+@Viila_HostAddress = http://localhost:5145
+
+GET {{Viila_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
